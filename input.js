@@ -1,4 +1,4 @@
-// Abdulrazzak Jouhar
+// Abdulrazzak Jouhar 2021
 
 import { pauseGame } from "./game.js"
 
