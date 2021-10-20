@@ -1,4 +1,4 @@
-// Abdulrazzak Jouhar
+// Abdulrazzak Jouhar 2021
 
 export function sound(src) {
     this.sound = document.createElement("audio");
