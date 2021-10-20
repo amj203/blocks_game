@@ -1,4 +1,4 @@
-// Abdulrazzak Jouhar
+// Abdulrazzak Jouhar 2021
 
 import { gameBoard, increaseSpeed } from "./game.js"
 import { fillBlock, endLifeSpane, obstacleLeft, obstacleRight, cantRotate, checkForWin, printGrid, emptyGrid } from "./grid.js"
