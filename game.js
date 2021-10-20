@@ -1,4 +1,4 @@
-// Abdulrazzak Jouhar
+// Abdulrazzak Jouhar 2021
 
 import {update as updateBlock, draw as drawBlock, updateX as updateXD} from './blocks.js'
 import { checkIfLose } from './grid.js'
