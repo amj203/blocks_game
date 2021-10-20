@@ -1,4 +1,4 @@
-// Abdulrazzak Jouhar
+// Abdulrazzak Jouhar 2021
 
 let grid = new Array(31).fill(0).map(() => new Array(22).fill(0))
 grid[30].fill(1)
